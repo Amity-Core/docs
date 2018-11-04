@@ -28,7 +28,11 @@ We at Calex believe in project AmityCoin; so much so that we launch with no Prem
 
 #### What we have planned
 
-- Upon mainnet, we’re going to be buying back AMITs from our miners to make a fund for future projects
+- Upon mainnet, we’re going to be buying back AMITs (community Buyback System or CBS) from our miners to make a fund for future projects
 - Introducing a tipbot to get the flow of coins circulating between users hoping it helps introduce more people to get involved
 - Creating a web wallet so you can easily login to wallet via mobile browsers
 - Setting up a merchandise shop that accepts AMITs. This helps with the early economy of the coin proving it would be a reliable source of income for merchants 
+
+#### Execution of the CBS
+For the Community Buyback System to be successful we will sll need to depend on the generousity and dedicaon of our users.  The system will fail if it is not supported.  To make raising the required amount of AMIT feasable we will be asking that users willing to parcipate in the system exchange 1 AMIT for .00000003 BTC or 3 Satoshis.  As we will be ﬁnancing the Community Buyback System from our own funds we will be asking this price in the hopes of being able to meet the required funding target of 2.5 Million AMIT.  This would be a total cost of 0.075 BTC (Approximately $485.00 USD at current market rates).  Users who are interested in 
+taking part in the CBS can contact any of the AmityCoin team members.  We feel strnongly that this method of funding future development is both fair to the users as well as the team.  You as the user should not be asked to fund a project in "Hope" of a return. This way early supporters will get at least something other than a thank you for thier patronage.  We believe in our project. Will you join us?
